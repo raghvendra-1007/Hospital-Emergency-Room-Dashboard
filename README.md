@@ -2,7 +2,10 @@
 
 An end-to-end **Excel dashboard project** that transforms emergency room data into meaningful insights using interactive visualizations. Built entirely in **Microsoft Excel**, this project helps healthcare professionals track and analyze performance metrics to support better decision-making.
 
-![Hospital Emergency Room Dashboard](Hospital_Dashboard_Final_Updated.png)
+## 📸 Dashboard Preview
+
+![Dashboard Preview](./Hospital%20Dashboard%20Final.png)
+
 
 ---
 
@@ -79,11 +82,6 @@ This project analyzes a hospital’s emergency room activity using data collecte
 - Conditional Formatting
 - Clean Dashboard Layout & Formatting
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](./Hospital%20Dashboard%20Final.png)
 
 ---
 
